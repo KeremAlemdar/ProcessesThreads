@@ -11,11 +11,17 @@ How to invoke client:
 ./statclient
   
 The followings are the requests that a user can type at the client prompt.
+
 count
+
 avg
+
 max
+
 count 'start' 'end'
+
 avg 'start' 'end'
+
 range 'start' 'end' 'K'
   
 Report include running time comparison of child process usage and thread usage.
